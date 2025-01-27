@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UBS_IT_DEV_RISK", "UBS_IT_DEV_RISK\UBS_IT_DEV_RISK.csproj", "{BA4B2945-47B7-4063-8EF1-D15BA75904CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA4B2945-47B7-4063-8EF1-D15BA75904CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4B2945-47B7-4063-8EF1-D15BA75904CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4B2945-47B7-4063-8EF1-D15BA75904CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4B2945-47B7-4063-8EF1-D15BA75904CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE94FF2-9822-4E20-BB12-D7B0B963C23D}
+	EndGlobalSection
+EndGlobal

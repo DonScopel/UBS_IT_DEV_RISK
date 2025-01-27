@@ -1,0 +1,7 @@
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\bin\Debug\UBS_IT_DEV_RISK.exe.config
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\bin\Debug\UBS_IT_DEV_RISK.exe
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\bin\Debug\UBS_IT_DEV_RISK.pdb
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\obj\Debug\UBS_IT_DEV_RISK.csproj.AssemblyReference.cache
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\obj\Debug\UBS_IT_DEV_RISK.csproj.CoreCompileInputs.cache
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\obj\Debug\UBS_IT_DEV_RISK.exe
+C:\Freelas\MazzaTech\UBS_IT_DEV_RISK\UBS_IT_DEV_RISK\obj\Debug\UBS_IT_DEV_RISK.pdb
