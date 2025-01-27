@@ -9,3 +9,5 @@ Com base no escopo do projeto, o console segue os passos abaixo:
 
 Tanto o arquivo de portifólio, quanto o de categorizados ficam na pasta do executável.
 Há diversos tratamento de erros, todos exibidos em tela caso ocorram.
+
+Daniel Scopel - 27/01/2025
